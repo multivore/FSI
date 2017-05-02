@@ -3,7 +3,7 @@
 %Description: Structural static eq solver in 2D for square elements.
 %Version: 2.0
 %Author: Ilyas Ramdzan
-%Last Updated: 30/11/16
+%Last Updated: 30/11/16 > 2/5/17
 %Requirements: elem.txt nodes.txt facefixed.txt faceloaded.txt
 %--------------------------------------------------------------------------
 %% initialize program
